@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AssignmentApp</string>
+    <string name="button_left">Left</string>
+    <string name="button_right">Right</string>
+    <string name="button_snap">Snap</string>
+    <string name="button_filter">Search</string>
+    <string name="timestamp">Timestamp</string>
+    <string name="image_placeholder">Image placeholder</string>
+    <string name="filter_date_start">From date</string>
+    <string name="filter_date_start_hint">yyyy&#8211;mm&#8211;dd hh:mm:ss</string>
+    <string name="filter_date_end">To date</string>
+    <string name="filter_date_end_hint">yyyy&#8211;mm&#8211;dd hh:mm:ss</string>
+    <string name="filter_caption">Caption</string>
+
+    <string name="error_image_file_creation">Creating error.</string>
+</resources>
